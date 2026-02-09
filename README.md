@@ -1,5 +1,6 @@
 ## hi, i am sofi
 If you’re reading this, I’m probably hunched over my laptop like this.
+
 ![github bio](https://github.com/user-attachments/assets/3e88bce1-2e52-47f8-81e4-2eaf6c383bd0)
 
 <!--
