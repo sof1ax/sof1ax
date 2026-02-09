@@ -8,7 +8,7 @@ I’ve always been the kind of person who likes understanding how things work �
 
 I studied Management Information Systems in college and worked in IT support and analytical roles, but learning to code last year shifted everything. Since then, I’ve been exploring backend, frontend, and full-stack concepts, and picking up design along the way. Coding became the place where my curiosity finally made sense — where I could turn ideas into real working things.
 
-My curiosity once felt like a weakness, but in tech it became my strength. Every skill builds on the last, and every project teaches me something new.
+My curiosity once felt like a weakness, but in tech it became my strength. Coding showed me that curiosity is actually my biggest strength — it’s what pushes me to understand, improve, and create.
 
 If you love “too many things,” you’re not lost — you’re built for tech.
 
