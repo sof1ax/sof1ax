@@ -4,7 +4,7 @@ If you’re reading this, I’m probably hunched over my laptop like this.
 ![github bio](https://github.com/user-attachments/assets/3e88bce1-2e52-47f8-81e4-2eaf6c383bd0)
 
 ## About Me
-Hi, I’m Sofia. I’ve always been the kind of person who likes understanding how things work — especially when it comes to technology. There was something about computers that clicked for me early on, and that curiosity never really went away.
+I’ve always been the kind of person who likes understanding how things work — especially when it comes to technology. There was something about computers that clicked for me early on, and that curiosity never really went away.
 
 I studied Management Information Systems and worked in IT support and analytical roles, but learning to code last year shifted everything. Since then, I’ve been exploring backend, frontend, and full-stack concepts, and picking up design along the way. Coding became the place where my curiosity finally made sense — where I could turn ideas into real, working things.
 
