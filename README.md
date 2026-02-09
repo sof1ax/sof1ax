@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, my name is Sofi 
+![github bio](https://github.com/user-attachments/assets/3e88bce1-2e52-47f8-81e4-2eaf6c383bd0)
 
 <!--
 **sof1ax/sof1ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
